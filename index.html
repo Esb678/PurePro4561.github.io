@@ -18,12 +18,25 @@
     domain: "esb678.github.io",
     outgoing_tracking: true,
     download_tracking: true,
-    click_tracking: true
+    click_tracking: true<script>
+  /* Place this on a template where a customer initially is identified or after authentication. (Important: Update these values) */
+
+  woopra.identify({
+    // email: "<<YOUR CUSTOMER EMAIL HERE>>",
+    name: "<<YOUR CUSTOMER NAME HERE>>",
+    company: "<<YOUR CUSTOMER COMPANY HERE>>"
+  });
+
+  // The identify code should be added before the "track()" function
+  woopra.track();
+</script>
   });
   
   woopra.track();
 </script>
-<!-- End of Woopra Code -->    <div>
+<!-- End of Woopra Code --> 
+
+  <div>
     <title>PurePro4561 | All Your Favorite Games In One Place</title>
     <div class="topnav">
   <a class="active" href="https://purepro4561.github.io/">Home</a>
