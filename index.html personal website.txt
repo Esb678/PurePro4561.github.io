@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+ 
+  <head>
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+    <h1>Esb678's website</h1>
+  </head>
+
+  <body>
+    <style src="style.css"></style>
+<p>Hello! I am esb678, a 12 year old python programmer! Here are some of my projects:</p>
+<h2>Projects</h2>
+<h3>My first project, <a target="_blank" href="https://replit.com/@Esb678/MrBeast-vs-PewDiePie-vs-T-series-live-sub-counter?v=1">MrBeast vs PewDiePie vs T-Series live sub counter</a>. It is a pretty small project.</h3>
+<h3>My second published project, <a target="_blank" href="https://replit.com/@Esb678/Throw-a-potato?v=1">Throw a Potato</a>, a simple embed site that holds the games in the semipopular series, Throw a Potato.</h3>
+<h3>My third published project, <a target="_blank" href="https://replit.com/@Esb678/Calculator?v=1">Calculator</a>, a simple python project where you can do basic calculations.</h3>
+<h3>My fourth published project, <a target="_blank" href="https://replit.com/@Esb678/LIVE-Follower-Count-Esb678?v=1">🔢 LIVE Follower Count (esb678)</a>, a project forked from <a href="https://replit.com/@1tim">@1Tim</a> that I modified so that it shows me instead of him.</h3>
+<h3>My fifth and most recent project, <a target="_blank" href="https://replit.com/@Esb678/Hacking-Simulator?v=1">Hacking Simulator</a>, a python project that makes it look like you are using a hacking terminal.</h3>
+    <h2>WIPs</h2>
+    <p>I have a few WIPs that I am working on. Here they are:</p>
+    <h3>Dungeons and Dragons, my biggest project that I am working on. It is a text-based python adventure game.</h3>
+    <h3>AI comment bot, an attempt to make an AI comment bot
+<h2>Tippers</h2>
+    
+<h4>1. <a href="https://replit.com/@BrooklynnTillma">@BrooklynnTillma</a> (100 Cycles)</h4>
+<p>Thank you to all who tipped, it means a lot, and if I missed you let me know in the comments of this repl.</p>
+  </body>
+&copy 2023 esb678
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</html>

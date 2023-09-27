@@ -1,0 +1,4 @@
+
+body {background-color: lightblue;
+      outline: 10px solid #FF0000;
+     } 
